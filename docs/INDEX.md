@@ -17,5 +17,5 @@ Treat packets, peer metadata, and configuration input as untrusted. Document pri
 ## Technical architecture
 - [Userspace networking architecture 0.1](NETWORKING_ARCHITECTURE_0.1.md)
 
-- [Central documentation index](https://github.com/Waizusora/Wicofe-Docs/blob/main/INDEX.md)
-- [Repository documentation map](https://github.com/Waizusora/Wicofe-Docs/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
+- [Central documentation index](https://github.com/Waizusora/Wicofe-Doc/blob/main/INDEX.md)
+- [Repository documentation map](https://github.com/Waizusora/Wicofe-Doc/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
